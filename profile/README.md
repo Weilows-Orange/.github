@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="150" src="/logo.png"></img>
+    <img width="150" src="画板 1.png"></img>
 </div>
 <h1 align="center">Weilows Orange</h1>
 <h4 align="center">一款可爱与好看的操作系统~</h4>
